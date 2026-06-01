@@ -7,6 +7,13 @@ My networking and cybersecurity practice repository.
 - Wireshark
 - Python
 - Linux
+- Cybersecurity
+
+## Goals
+- Improve networking skills
+- Practice cybersecurity concepts
+- Build mini-projects
+- Learn network automation
 
 ## Author
 Mohamed Amin Hamrouni
